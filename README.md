@@ -22,5 +22,5 @@
 
 ## Зависимости и решение:
 
-Ноутбук с решением можно найти [тут](https://github.com/esta1d/segmentation_of_clients/blob/main/segmentation.ipynb)
-Использованные [библиотеки](https://github.com/esta1d/segmentation_of_clients/blob/main/requirements.txt)
+* Ноутбук с решением можно найти [тут](https://github.com/esta1d/segmentation_of_clients/blob/main/segmentation.ipynb)
+* Использованные [библиотеки](https://github.com/esta1d/segmentation_of_clients/blob/main/requirements.txt)
